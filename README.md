@@ -43,7 +43,7 @@ Developed by:R.HEMAPRIYA
 RegisterNumber:212221230036
 */
 
-HALF ADDER
+## HALF ADDER
 
 module Adder(a,b,sum,carry);
 input a,b;
@@ -51,7 +51,8 @@ output sum,carry;
 xor(sum,a,b);
 and(carry,a,b);
 endmodule 
-FULL ADDER
+
+## FULL ADDER
 
 module FullAdder(a,b,c,sum,carry);
 input a,b,c;
