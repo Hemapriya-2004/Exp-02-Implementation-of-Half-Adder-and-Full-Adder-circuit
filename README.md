@@ -76,7 +76,7 @@ endmodule
 ## RTL
 ![231675204-a0e69240-1e04-443e-80f0-04666b2df148](https://user-images.githubusercontent.com/94184828/232230936-abf822ff-8c5d-4af9-bad7-739549a6b5e2.png)
 ## TIMING DIAGRAM
-![output](https://github.com/Hemapriya-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/i1.png)
+![output](https://github.com/Hemapriya-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/i2.png)
 
 
 
