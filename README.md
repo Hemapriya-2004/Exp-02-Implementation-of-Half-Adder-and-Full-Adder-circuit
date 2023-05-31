@@ -68,7 +68,7 @@ endmodule
 ## RTL
 ![231675013-160477f4-cb65-4eef-aa91-95bfd6a68db4](https://user-images.githubusercontent.com/94184828/232230895-623408fa-19ed-4e0c-a232-2198d7283eab.png)
 ## TIMING DIAGRAM
-![231675060-300f1038-14df-428b-bb5b-17150c820851](https://user-images.githubusercontent.com/94184828/232230907-aee7a28a-16a1-45c0-aef2-4498d9df097e.png)
+![output](https://github.com/Hemapriya-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/i1.png)
 ## FULL ADDER
 
 ![231675144-d70b786b-690e-4ffd-9ad5-7a54097c5cc5](https://user-images.githubusercontent.com/94184828/232230923-248fa731-31ca-4b07-b76d-c0c4c8b4fa49.png)
@@ -76,7 +76,7 @@ endmodule
 ## RTL
 ![231675204-a0e69240-1e04-443e-80f0-04666b2df148](https://user-images.githubusercontent.com/94184828/232230936-abf822ff-8c5d-4af9-bad7-739549a6b5e2.png)
 ## TIMING DIAGRAM
-![231675257-9c1fb508-68a8-4ef7-905e-aeb6fa6881f9](https://user-images.githubusercontent.com/94184828/232230950-8135a8b3-31fa-4b28-87a4-0ffad4e56872.png)
+![output](https://github.com/Hemapriya-2004/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/i1.png)
 
 
 
